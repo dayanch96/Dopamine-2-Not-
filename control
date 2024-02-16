@@ -1,0 +1,8 @@
+Package: com.dvntm.dopamine2
+Name: Dopamine 2
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: dvntm
+Author: dvntm
+Section: Utilities
