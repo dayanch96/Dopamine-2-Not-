@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 #import <WebKit/WebKit.h>
 
-@interface dopamineRootViewController : UIViewController <WKNavigationDelegate>
+@interface dopamineRootViewController : UIViewController
 
 @end
